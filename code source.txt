@@ -1,0 +1,22 @@
+source code
+
+<html>
+<head>
+<title>New tab</title>
+</head>
+<body background="DSC00369.jpg">
+<br><a href="https://www.google.lk/"><img src="google.jpg" height="200" width="200" hspace="50"></a>
+<a href="https://accounts.google.com/ServiceLogin/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"><img src="gmail.jpg" height="200" width="200" hspace="50"></a>
+<a href="https://youtube.com/"><img src="youtube.jpg" height="200" width="200" hspace="50"></a>
+<a href="https://www.facebook.com/"><img src="facebook.jpg" height="200" width="200" hspace="50"></a>
+<a href="https://www.tutorialspoint.com/"><img src="tutorialspoint.jpg" height="200" width="200" hspace="50"></a>
+<a href="http://www.ugc.ac.lk/"><img src="ugc.jpg" height="200" width="200" hspace="50"></a>
+<a href="https://www.whatsapp.com/"><img src="whatsapp.jpg" height="200" width="200" hspace="50"></a>
+<a href="https://www.instagram.com/?hl=en"><img src="instagram.jpg" height="200" width="200" hspace="50"></a>
+<a href="http://www.hirunews.lk/"><img src="hirunews.jpg" height="200" width="200" hspace="50"></a>
+<a href="https://www.skype.com/en/"><img src="skype.jpg" height="200" width="200" hspace="50"></a>
+<a href="https://lk.linkedin.com/"><img src="linkedin.jpg" height="200" width="200" hspace="50"></a>
+<a href="https://www.bbc.co.uk/"><img src="bbc.jpg" height="200" width="200" hspace="50"></a>
+<a href="http://www.aliexpress.com/"><img src="aliexpress.jpg" height="200" width="200" hspace="50"></a>
+</body>
+</html>

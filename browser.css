@@ -1,0 +1,42 @@
+input
+{
+	position:relative;
+	display:inline-block;
+	font-size:20px;
+	box-sizing:border-box;
+	transition:.5px;
+}
+input[type=text]
+{
+	background:#fff;
+	width:340px;
+	height:30px;
+	border:none;
+	outline:none;
+	padding:0 25px;
+	border-radius:25px 25px 25px 25px;
+}
+input[type=submit]
+{
+	position:50px;
+	border-radius:25px 25px 25px 25px;
+	width:150px;
+	height:30px;
+	border:none;
+	outline:none;
+	cursor:pointer;
+	background:#ffc107;
+	color:#fff;
+}
+input[type=submit]:hover
+{
+	background:#ff5722;
+}
+image
+{
+	border-radius:20px 20px 20px 20px;
+}
+body
+{
+	background-image:url('bck.jpg');	
+}
